@@ -1,1 +1,3 @@
-# hello-world
+# web-scrapping
+
+사이트를 열어서 자동 클릭, 자동 페이지 크롤링하게 하는 코드:)
